@@ -2,6 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
+## Some Screenshots
 
-![Image](login_profile_ui/assets/Screenshots/Splash Screen.jpg)
+![Image](http://lmsotfy.com/so.png)
